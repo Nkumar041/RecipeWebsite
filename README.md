@@ -1,3 +1,3 @@
-# Forkify Project
+# Recipe Website
 
-Recipe application with custom recipe uploads.
+Website for searching, making, and bookmarking recipes using the Forkify API
