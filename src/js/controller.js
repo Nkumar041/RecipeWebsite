@@ -7,6 +7,8 @@ import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 
+// change for git to work
+
 // NOTE: WHEN WE RUN THE HTML FILE USING NPM, THE HTML AND JS THAT IS USED IS THAT FROM THE DIST FOLDER, SO EVERYTHING IN THERE IS BEING USED. THE STUFF WE DO IN THE SRC FOLDER IS JUST FOR DEVELOPMENT, AND IT IS SHIPPED TO THE DIST WHICH IS THEN USED FOR THE REAL SITE
 
 // console.log(icons);
